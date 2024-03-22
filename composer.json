@@ -1,0 +1,17 @@
+{
+  "name": "noon/module-fix-store-information-scope",
+  "description": "Magento 2 module for fix 'Store Information' scope",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "MIT"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Noon\\FixStoreInformationScope\\": ""
+    },
+    "files": [
+      "registration.php"
+    ]
+  }
+}
